@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Real-Time-Public-Transport-Tracker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/laravel-api-boilerplate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/laravel-passport-api-boilerlate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/supermarket-checkout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tfl-delay-monitor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vestiare-portal" vcs="Git" />
+  </component>
+</project>
