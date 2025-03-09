@@ -7,11 +7,11 @@ import { Link } from '@inertiajs/react';
 import { type PropsWithChildren } from 'react';
 
 const sidebarNavItems: NavItem[] = [
-    {
-        title: 'Profile',
-        url: '/settings/profile',
-        icon: null,
-    },
+    // {
+    //     title: 'Profile',
+    //     url: '/settings/profile',
+    //     icon: null,
+    // },
     {
         title: 'Appearance',
         url: '/settings/appearance',

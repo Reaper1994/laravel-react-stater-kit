@@ -82,7 +82,7 @@ export default function Profile({ status }: { status?: string }) {
                         </div>
 
                         <div className="flex items-center gap-4">
-                            <Button disabled={processing}>Save</Button>
+                            {/* <Button disabled={processing}>Save</Button> */}
 
                             <Transition
                                 show={recentlySuccessful}
@@ -97,7 +97,7 @@ export default function Profile({ status }: { status?: string }) {
                     </form>
                 </div>
 
-                <DeleteUser />
+                {/* <DeleteUser /> */}
             </SettingsLayout>
         </AppLayout>
     );
