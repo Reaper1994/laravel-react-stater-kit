@@ -13,6 +13,11 @@ const mainNavItems: NavItem[] = [
         url: '/dashboard',
         icon: LayoutGrid,
     },
+    {
+        title: 'Payments',
+        url: '/payments',
+        icon: Folder,
+    },
 ];
 
 const footerNavItems: NavItem[] = [
